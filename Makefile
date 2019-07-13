@@ -29,3 +29,4 @@ clean:
 	rm -rf *.vcd
 	rm -rf *.o
 	rm -rf hw/*.cf
+	rm -rf $(testbench)
